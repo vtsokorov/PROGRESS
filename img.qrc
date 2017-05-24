@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/database.png</file>
+        <file>img/Querys.png</file>
+        <file>img/Reports.png</file>
+        <file>img/Table.png</file>
+        <file>img/HelpBook.png</file>
+        <file>img/coins.png</file>
+        <file>img/dollars.png</file>
+        <file>img/filter.png</file>
+        <file>img/clear.png</file>
+        <file>img/print.png</file>
+        <file>img/find.png</file>
+        <file>img/help.png</file>
+        <file>img/profile.png</file>
+        <file>img/key.png</file>
+        <file>img/add.png</file>
+        <file>img/editor.png</file>
+        <file>img/refresh.png</file>
+        <file>img/remove.png</file>
+        <file>img/query.png</file>
+        <file>img/report.png</file>
+        <file>img/deleterow.png</file>
+        <file>img/editrow.png</file>
+        <file>img/update.png</file>
+        <file>img/addrow.png</file>
+        <file>img/firebird-logo.png</file>
+    </qresource>
+</RCC>
